@@ -1,0 +1,11 @@
+Documentacion para el proyecto Servicio Rest
+https://www.callicoder.com/java-read-excel-file-apache-poi/
+https://www.tutorialspoint.com/How-to-convert-Java-Array-Collection-to-JSON-array
+http://codigoxules.org/java-leer-excel-con-apache-poi-java-api/
+
+Librerias a utilizar para el proyecto
+Javax.ws.rs.api-2.1.1.jar
+org.apache.poi.hssf.usermodel-3.7.jar
+JavaJRE (JAVASE-1.6 o JavaSE-1.8)
+
+Recomendacion hacer el proyecto en maven para las dependecias y no estar bajando los jar 
